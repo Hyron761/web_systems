@@ -41,7 +41,7 @@ Last Access Time<br><br>
 <?php foreach ($rec as $a):?>
         <?=escape1($a)?><br>
 <?php endforeach; ?>
-Add comment by Mamoru Kyou
+Add comment by Kyou Add comment by Kyou at 2.
 </body>
 </html>
 
